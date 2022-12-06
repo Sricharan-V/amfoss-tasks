@@ -1,1 +1,0 @@
-It was really good task, I had a lot of fun doing it. I cloned the repository and added them into a single folder and edited the code in vscode compiler, I'm sure i learned a bit of js and css, I was a bit confused about html but I will sure learn it asap.
