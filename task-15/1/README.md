@@ -21,4 +21,6 @@ int main()
         printf("%lld\n",x);  
     }  
     return 0;  
-}
+}  
+![image](https://user-images.githubusercontent.com/117881871/206473970-245b49cc-de5c-4012-9fd5-7996d70d3434.png)
+
