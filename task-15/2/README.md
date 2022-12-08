@@ -25,3 +25,4 @@ int main(){
     }
 return 0;
 }
+![image](https://user-images.githubusercontent.com/117881871/206474207-f3f25139-422d-4e58-96fc-c4b5aa6c1d7e.png)
