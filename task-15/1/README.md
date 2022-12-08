@@ -8,7 +8,7 @@
   
 int main()  
 {  
-    (&emsp)long long int t;  
+    long long int t;  
     scanf("%lld",&t);  
     while(t--)  
     {  
