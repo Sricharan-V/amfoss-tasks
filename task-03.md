@@ -1,0 +1,1 @@
+I tried to do all codes but I couldn't finish all of them and I did just the first four questions and the third and second questions didn't qualify all the test cases, the task was really tough and I think I should learn more dsa.
