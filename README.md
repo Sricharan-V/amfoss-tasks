@@ -6,3 +6,5 @@ I am planning to learn as many languages in the 6 months of my first year exclud
 ## How would you contribute back to the club  
 I will make sure there are no mistakes from my side and I will try my best not to bother my seniors from the club and try to solve my own problems unless theyre severe, and after I am a senior I will help my juniors in their works and try to encourage them to do more for the club  
 ## Do you have any feedback  on the selection process  
+All of the am-foss tasks were really good I tried my best and my friends did too but we weren't able to complete all the tasks due to the online thing. We didn't have an opportunity to discuss with each other and share our ideas so I think the selection process should be liberal and I'm sure I will do great in the club.  
+Thank you
